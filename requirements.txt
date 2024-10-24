@@ -1,0 +1,9 @@
+streamlit
+pandas 
+numpy 
+sklearn.preprocessing 
+sklearn.model_selection
+sklearn.linear_model 
+sklearn.ensemble
+xgboost
+sklearn.cluster
